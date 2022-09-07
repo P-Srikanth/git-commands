@@ -41,3 +41,5 @@
 21.git stash pop  -->  Popping your stash removes the changes from your stash and reapplies them to your working copy.
 
 22.git stash apply  -->  You can reapply the changes to your working copy and keep them in your stash with git stash apply
+
+sreekanth
