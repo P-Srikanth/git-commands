@@ -42,4 +42,4 @@
 
 22.git stash apply  -->  You can reapply the changes to your working copy and keep them in your stash with git stash apply
 
-edited by sreekanth, from india
+edited by sreekanth, from andhra pradesh.
